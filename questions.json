@@ -1,0 +1,137 @@
+
+
+
+[
+  {
+    "type": "multiple",
+    "category": "computing",
+    "difficulty": "easy",
+    "text": "How many bits are in a byte?",
+    "options": ["4", "8", "16", "32"],
+    "answer": "8"
+  },
+  {
+    "type": "typed",
+    "category": "computing",
+    "difficulty": "easy",
+    "text": "Which device is used to input text into a computer?",
+    "answer": "Keyboard"
+  },
+  {
+    "type": "truefalse",
+    "category": "computing",
+    "difficulty": "medium",
+    "text": "RAM stores data permanently, even when the computer is switched off.",
+    "answer": "false"
+  },
+  {
+    "type": "multiple",
+    "category": "computing",
+    "difficulty": "medium",
+    "text": "Which of the following is an example of an operating system?",
+    "options": ["Microsoft Word", "Google Chrome", "Windows 11", "Adobe Photoshop"],
+    "answer": "Windows 11"
+  },
+  {
+    "type": "typed",
+    "category": "computing",
+    "difficulty": "hard",
+    "text": "How many bits are needed to represent 16 different values?",
+    "answer": "4"
+  },
+  {
+    "type": "truefalse",
+    "category": "computing",
+    "difficulty": "hard",
+    "text": "HTTPS encrypts data sent between a web browser and a website.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "type": "typed",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "What gas do humans need to breathe to survive?",
+    "answer": "Oxygen"
+  },
+  {
+    "type": "truefalse",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "The Sun is a star.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "What force pulls objects towards the Earth?",
+    "options": ["Friction", "Magnetism", "Gravity", "Electricity"],
+    "answer": "Gravity"
+  },
+  {
+    "type": "typed",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "What is the process called when a liquid changes into a gas?",
+    "answer": "Evaporation"
+  },
+  {
+    "type": "truefalse",
+    "category": "science",
+    "difficulty": "easy",
+    "text": "Plants need sunlight to carry out photosynthesis.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple",
+    "category": "geography",
+    "difficulty": "easy",
+    "text": "What is the capital city of France?",
+    "options": ["Rome", "Paris", "Madrid", "Berlin"],
+    "answer": "Paris"
+  },
+  {
+    "type": "typed",
+    "category": "geography",
+    "difficulty": "easy",
+    "text": "Which continent is Egypt in?",
+    "answer": "Africa"
+  },
+  {
+    "type": "truefalse",
+    "category": "geography",
+    "difficulty": "easy",
+    "text": "The Pacific Ocean is the largest ocean on Earth.",
+    "answer": "true"
+  },
+  {
+    "type": "multiple",
+    "category": "geography",
+    "difficulty": "easy",
+    "text": "Which of these is a river?",
+    "options": ["The Sahara", "The Nile", "The Alps", "The Gobi"],
+    "answer": "The Nile"
+  },
+  {
+    "type": "typed",
+    "category": "geography",
+    "difficulty": "easy",
+    "text": "What is the name of the imaginary line that divides Earth into the Northern and Southern Hemispheres?",
+    "answer": "Equator"
+  },
+  {
+    "type": "truefalse",
+    "category": "geography",
+    "difficulty": "easy",
+    "text": "A desert is always hot.",
+    "answer": "false"
+  }
+]
